@@ -10,8 +10,6 @@ A comprehensive contact form solution consisting of three interconnected modules
 Core backend service that handles:
 - Form submission processing
 - Data validation and sanitization
-- Secure storage to database
-- Email notification system
 - RESTful API endpoints
 
 **Tech Stack**:
